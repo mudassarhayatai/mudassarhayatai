@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as an AI Engineer at [Abletech Solutions FZCO](https://www.linkedin.com/company/abletech-solutions-fzco/)
+- 🔭 Worked as an AI Engineer at [Abletech Solutions FZCO](https://www.linkedin.com/company/abletech-solutions-fzco/)
 
 - 🌱 I’m currently learning **AWS Cloud Practitionar, Natural Language Processing**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://mudassar.engineer](http://mudassar.engineer)
 
-- 📝 Iwrite articles on [https://hashnode.com/@mudassarhayatai](https://hashnode.com/@mudassarhayatai)
+- 📝 I write articles on [https://hashnode.com/@mudassarhayatai](https://hashnode.com/@mudassarhayatai)
 
 - 💬 Ask me about **Flask, Python, Machine Learning, Web Scraping and Automation, Docker, Git / Github**
 
